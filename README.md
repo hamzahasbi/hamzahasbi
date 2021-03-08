@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Hamza Hasbi. Here to build and consume 🤣.
+📫 Wanna have a chat : [Email](mailto:hamza.hasbi@gmail.com) Or discord : __Morty#6076
 
+⚡ Fun fact: 
 [![Source Karma badge for @hamzahasbi](https://sourcekarma-og.vercel.app/api/hamzahasbi/github)](https://sourcekarma.vercel.app/hamzahasbi)
