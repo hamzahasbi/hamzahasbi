@@ -21,5 +21,9 @@ My name is Hamza Hasbi. Here to build and consume 🤣.
 ⚡ Fun facts: <br/>
 
 [![Source Karma badge for @hamzahasbi](https://sourcekarma-og.vercel.app/api/hamzahasbi/github)](https://sourcekarma.vercel.app/hamzahasbi)
+<br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzahasbi&count_private=true)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzahasbi&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
