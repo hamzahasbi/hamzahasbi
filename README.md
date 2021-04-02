@@ -18,6 +18,8 @@ My name is Hamza Hasbi. Here to build and consume 🤣.
 <br/>
 📫 Wanna have a chat : [Email](mailto:hamza.hasbi@gmail.com) Or discord : __Morty#6076
 
-⚡ Fun fact: <br/>
+⚡ Fun facts: <br/>
 
 [![Source Karma badge for @hamzahasbi](https://sourcekarma-og.vercel.app/api/hamzahasbi/github)](https://sourcekarma.vercel.app/hamzahasbi)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzahasbi&count_private=true)
+
