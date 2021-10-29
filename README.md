@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzahasbi&count_private=true)
 <br/>
 -->
-My name is Hamza Hasbi. Here to build and consume 🤣.
+My name is Hamza Hasbi. Here to build and consume 🔭 .
 <br/>
 📫 Wanna have a chat : [Email](mailto:hamza.hasbi@gmail.com) Or discord : __Morty#6076
 
