@@ -27,3 +27,4 @@ My name is Hamza Hasbi. Here to build and consume 🔭 .
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzahasbi&count_private=true&langs_count=8&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hamzahasbi&theme=blue-green&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
