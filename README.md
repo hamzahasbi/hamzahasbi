@@ -27,7 +27,7 @@ My name is Hamza Hasbi. Here to build and consume 🔭 .
 [![Generic badge](https://img.shields.io/badge/Resume-<Github>-<COLOR>.svg)](https://resume.github.io/?hamzahasbi)
 
 <br/>
-<br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzahasbi&count_private=true&langs_count=8&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
