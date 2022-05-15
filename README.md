@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **hamzahasbi/hamzahasbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <br/>
 -->
 ![title](/header.png)
-Here to build and consume 🔭 .
+### Here to build and consume 🔭 .
 <br/>
 📫 Wanna have a chat : [Email](mailto:hamza.hasbi@gmail.com) Or discord : __Morty#6076
 
