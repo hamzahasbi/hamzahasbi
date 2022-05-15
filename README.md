@@ -25,6 +25,8 @@ My name is Hamza Hasbi. Here to build and consume 🔭 .
 ⚡ Fun facts: <br/>
 
 [![Generic badge](https://img.shields.io/badge/Resume-<Github>-<COLOR>.svg)](https://resume.github.io/?hamzahasbi)
+<br/>
+![](https://komarev.com/ghpvc/?username=hamzahasbi&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet)
 
 <br/>
 
