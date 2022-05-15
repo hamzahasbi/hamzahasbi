@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 <br/>
 -->
-My name is Hamza Hasbi. Here to build and consume 🔭 .
+![title](/header.png)
+Here to build and consume 🔭 .
 <br/>
 📫 Wanna have a chat : [Email](mailto:hamza.hasbi@gmail.com) Or discord : __Morty#6076
 
