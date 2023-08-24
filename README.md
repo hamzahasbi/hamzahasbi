@@ -46,7 +46,7 @@ Here are some ideas to get you started:
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	  <li><b>OS:</b> MacOs </li>
-	   	<li><b>Setup: </b> MacBook Pro M1 pro (14 inch) + <a href="http://www.hybrok.com/index.php/hybrok-spark-hs24cuf" target='_blank'>Monitor 1</a> + <a href="https://www.msi.com/Monitor/Optix-MAG241C/support" target='_blank'>Monitor 2</a> + <a href="https://www.razer.com/gaming-mice/razer-basilisk-x-hyperspeed" target='_blank'>Mouse</a> + <a href="https://spiritofgamer.com/gb/keyboards/165-xpert-k500-3700104435391.html" target='_blank'>Keyboard</a> and <a href="https://electronics.sony.com/audio/gaming-audio/inzone-headsets/p/mdrg300-w" target='_blank'>headset</a>
+	   	<li><b>Setup: </b> MacBook Pro M1 pro (14 inch) + <a href="http://www.hybrok.com/index.php/hybrok-spark-hs24cuf" target="_blank">Monitor 1</a> + <a href="https://www.msi.com/Monitor/Optix-MAG241C/support" target="_blank">Monitor 2</a> + <a href="https://www.razer.com/gaming-mice/razer-basilisk-x-hyperspeed" target="_blank">Mouse</a> + <a href="https://spiritofgamer.com/gb/keyboards/165-xpert-k500-3700104435391.html" target="_blank">Keyboard</a> and <a href="https://electronics.sony.com/audio/gaming-audio/inzone-headsets/p/mdrg300-w" target="_blank">headset</a>
       </li>
   	</ul>	
 </details>
