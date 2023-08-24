@@ -51,7 +51,7 @@ Here are some ideas to get you started:
   	</ul>	
 </details>
 
-📫 Wanna have a chat : [Email](mailto:hamza.hasbi@gmail.com) Or discord : __Morty#6076
+📫 Wanna have a chat : [Email](mailto:hamza.hasbi@gmail.com) Or discord : __morty
 
 ⚡ Fun facts: <br/>
 
