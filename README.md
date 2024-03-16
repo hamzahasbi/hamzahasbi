@@ -1,5 +1,6 @@
 
 
+
 <!--
 **hamzahasbi/hamzahasbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -48,6 +49,9 @@ Here are some ideas to get you started:
   	  <li><b>OS:</b> MacOs </li>
 	   	<li><b>Setup: </b> MacBook Pro M1 pro (14 inch RAM:16Gb SSD:512Gb) + <a href="http://www.hybrok.com/index.php/hybrok-spark-hs24cuf" target="_blank">Monitor 1</a> + <a href="https://www.msi.com/Monitor/Optix-MAG241C/support" target="_blank">Monitor 2</a> + <a href="https://www.razer.com/gaming-mice/razer-basilisk-x-hyperspeed" target="_blank">Mouse</a> + <a href="https://spiritofgamer.com/gb/keyboards/165-xpert-k500-3700104435391.html" target="_blank">Keyboard</a> and <a href="https://electronics.sony.com/audio/gaming-audio/inzone-headsets/p/mdrg300-w" target="_blank">headset</a>
       </li>
+      <li> <b>Terminal: </b><a href="https://www.warp.dev/" target="_blank">WARP</a> with <a href="https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH" target="_blank">ZSH</a> and 
+      <a href="https://ohmyposh.dev/" target="_blank">oh-my-posh .</a></li>
+            <li> <b>IDEs & Code editors : </b> PHPStorm / Webstorm / Vscode and Neovim.</li>
   	</ul>	
 </details>
 
