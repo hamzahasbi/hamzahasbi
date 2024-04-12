@@ -1,28 +1,13 @@
 
 
-
-<!--
-**hamzahasbi/hamzahasbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzahasbi&count_private=true)
-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hamzahasbi&theme=blue-green&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-<br/>
--->
 ![title](/header.png)
-### Here to build and consume 🔭 .
+
+- 🚀 Full stack Engineer (backend and DevOps heavy) focused on building products with new web technologies and understanding the why behind the current tools.<br>
+- 🎮 League of legends + Efootball (PS4) + Competitive programming <br>
+- 😎 Inspirational Words: ***"If it's not a clear YES then it's a NO"*** (The essentialism [Greg McKeown](https://twitter.com/librarymindset/status/1441749509583753217/media_tags))
 <br/>
 
+[![](https://visitcount.itsvg.in/api?id=hamzahasbi&icon=7&color=1)](https://visitcount.itsvg.in)
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=hamzahasbi&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=FFB86C&currStreakNum=FFB86C" />
@@ -55,6 +40,19 @@ Here are some ideas to get you started:
   	</ul>	
 </details>
 
+### 💻 Tech Stack:
+<a href="https://github.com/hamzahasbi/hamzahasbi">
+    <img src="https://skillicons.dev/icons?i=ts,js,sass,php,nginx,nodejs,rust,react,mongodb,vite" />
+  </a>
+    <br>
+  <a href="https://github.com/hamzahasbi/hamzahasbi">
+    <img src="https://skillicons.dev/icons?i=nextjs,remix,bun,symfony,bootstrap,tailwind,mysql,cpp,redis" />
+  </a>
+  <br>
+  <a href="https://github.com/hamzahasbi/hamzahasbi">
+    <img src="https://skillicons.dev/icons?i=linux,git,docker,webstorm,phpstorm,vscode,notion,discord" />
+  </a>
+
 📫 Wanna have a chat : [Email](mailto:hamza.hasbi@gmail.com) Or discord : __morty
 
 ⚡ Fun facts: <br/>
@@ -67,3 +65,5 @@ Here are some ideas to get you started:
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzahasbi&count_private=true&langs_count=8&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
+ 
