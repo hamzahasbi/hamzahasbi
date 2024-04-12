@@ -3,8 +3,9 @@
 ![title](/header.png)
 
 - 🚀 Full stack Engineer (backend and DevOps heavy) focused on building products with new web technologies and understanding the why behind the current tools.<br>
-- 🎮 League of legends + Efootball (PS4) + Competitive programming <br>
-- 😎 Inspirational Words: ***"If it's not a clear YES then it's a NO"*** (The essentialism [Greg McKeown](https://twitter.com/librarymindset/status/1441749509583753217/media_tags))
+- 🎮 League of legends + Efootball (PS4) + Competitive programming. <br>
+- 😎 Inspirational Words: ***"If it's not a clear YES then it's a NO"*** (The essentialism [Greg McKeown](https://twitter.com/librarymindset/status/1441749509583753217/media_tags)).
+- 📚 Currently reading [Start with why](https://simonsinek.com/books/start-with-why/).
 <br/>
 
 [![](https://visitcount.itsvg.in/api?id=hamzahasbi&icon=7&color=1)](https://visitcount.itsvg.in)
@@ -40,7 +41,7 @@
   	</ul>	
 </details>
 
-### 💻 Tech Stack:
+### 💻 Current Stack:
 <a href="https://github.com/hamzahasbi/hamzahasbi">
     <img src="https://skillicons.dev/icons?i=ts,js,sass,php,nginx,nodejs,rust,react,mongodb,vite" />
   </a>
