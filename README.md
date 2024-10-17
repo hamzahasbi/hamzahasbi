@@ -5,7 +5,7 @@
 - 🚀 Full stack Engineer (backend and DevOps heavy) focused on building products with new web technologies and understanding the why behind the current tools.<br>
 - 🎮 League of legends + Efootball (PS4) + Competitive programming. <br>
 - 😎 Inspirational Words: ***"If it's not a clear YES then it's a NO"*** (The essentialism [Greg McKeown](https://twitter.com/librarymindset/status/1441749509583753217/media_tags)).
-- 📚 Currently reading [The rules of people](https://www.goodreads.com/book/show/36611665-the-rules-of-people).
+- 📚 Currently reading [The rules of people](https://www.goodreads.com/book/show/36611665-the-rules-of-people) | [Cracking the coding interview 6th edition](https://www.crackingthecodinginterview.com/solutions.html).
 <br/>
 
 [![](https://visitcount.itsvg.in/api?id=hamzahasbi&icon=7&color=1)](https://visitcount.itsvg.in)
