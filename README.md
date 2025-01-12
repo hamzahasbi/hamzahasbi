@@ -43,7 +43,7 @@
 
 ### 💻 Current Stack:
 <a href="https://github.com/hamzahasbi/hamzahasbi">
-    <img src="https://skillicons.dev/icons?i=ts,js,sass,php,nginx,nodejs,rust,react,mongodb,vite" />
+    <img src="https://skillicons.dev/icons?i=php,ts,js,sass,,nginx,nodejs,rust,react,mongodb,vite" />
   </a>
     <br>
   <a href="https://github.com/hamzahasbi/hamzahasbi">
