@@ -66,7 +66,7 @@
 ### 📫 Let's Connect
 - **Email**: [hamza.hasbi@gmail.com](mailto:hamza.hasbi@gmail.com)
 - **Discord**: `__morty`
-
+- **Instagram**: [@hamzahasbi](https://www.instagram.com/hamzahasbi/)
 ---
 
 ### ⚡ Fun Facts
