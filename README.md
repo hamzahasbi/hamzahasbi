@@ -11,7 +11,6 @@
   - [Cracking the Coding Interview, 6th Edition](https://www.crackingthecodinginterview.com/solutions.html).
   
 ---
-![](https://streak-stats.demolab.com/?user=hamzahasbi&theme=catppuccin-mocha&hide_border=true)
 ### 📊 GitHub Stats & Streaks
 <details>
   <summary><b>☄️ GitHub Streaks</b></summary>
