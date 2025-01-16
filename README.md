@@ -9,8 +9,8 @@
 - 📚 **Currently Reading**:
   - [The Rules of People](https://www.goodreads.com/book/show/36611665-the-rules-of-people)
   - [Cracking the Coding Interview, 6th Edition](https://www.crackingthecodinginterview.com/solutions.html).
-- 🧪 **Domain**: [@2hlabs.com](https://hamzahasbi.2hlabs.com)  
-  This is my personal domain, used for my **homelab projects** and **product development**.
+- 🧪 **self Branding**: [@2hlabs.com](https://hamzahasbi.2hlabs.com)  
+  This is my personal domain, used for my **homelab projects** and **product development** and changing the *.me domain tradition .
   
 ---
 ### 📊 GitHub Stats & Streaks
