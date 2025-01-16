@@ -10,7 +10,7 @@
   - [The Rules of People](https://www.goodreads.com/book/show/36611665-the-rules-of-people)
   - [Cracking the Coding Interview, 6th Edition](https://www.crackingthecodinginterview.com/solutions.html).
 - 🧪 **Self Branding**: [@2hlabs.com](https://hamzahasbi.2hlabs.com)  
-  This is my personal domain, used for my **homelab projects** (😐 changing the *.me domain tradition 😐).
+  This is my personal domain, used for my **homelab projects** (😐 changing the *.me domain tradition & Check Fun Facts section 😏).
   
 ---
 ### 📊 GitHub Stats & Streaks
@@ -72,7 +72,7 @@
 ---
 
 ### ⚡ Fun Facts
-- 🌴 **2hlabs.com**: You guessed it write **2hlabs** stands for <u>~~h~~</u>amza <u>~~h~~</u>asbi Labs.
+- 🌴 **2hlabs.com**: You guessed it right **2hlabs** stands for <u>~~H~~</u>amza <u>~~H~~</u>asbi Labs.
   </br> </br>
 [![Generic badge](https://img.shields.io/badge/Resume-Github-blue.svg)](https://resume.github.io/?hamzahasbi)  
 ![](https://komarev.com/ghpvc/?username=hamzahasbi&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet)
