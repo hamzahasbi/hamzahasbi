@@ -14,7 +14,7 @@
 ### 📊 GitHub Stats & Streaks
 <details>
   <summary><b>☄️ GitHub Streaks</b></summary>
-   <img src="https://streak-stats.demolab.com/?user=hamzahasbi&theme=catppuccin-mocha&hide_border=true"/>
+    <img src="https://nirzak-streak-stats.vercel.app?user=hamzahasbi&theme=catppuccin-mocha&hide_border=true"/>
 </details>
 <details>
   <summary><b>⚡ GitHub Stats</b></summary>
