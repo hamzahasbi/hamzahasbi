@@ -72,6 +72,8 @@
 ---
 
 ### ⚡ Fun Facts
+- 🌴 **2hlabs.com**: You guessed it write **2hlabs** stands for <u>~~h~~</u>amza <u>~~h~~</u>asbi Labs.
+  </br> </br>
 [![Generic badge](https://img.shields.io/badge/Resume-Github-blue.svg)](https://resume.github.io/?hamzahasbi)  
 ![](https://komarev.com/ghpvc/?username=hamzahasbi&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet)
 
