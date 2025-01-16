@@ -11,13 +11,12 @@
   - [Cracking the Coding Interview, 6th Edition](https://www.crackingthecodinginterview.com/solutions.html).
   
 ---
-
+![](https://streak-stats.demolab.com/?user=hamzahasbi&theme=catppuccin-mocha&hide_border=true)
 ### 📊 GitHub Stats & Streaks
 <details>
   <summary><b>☄️ GitHub Streaks</b></summary>
-  	<img src="https://streak-stats.demolab.com?user=hamzahasbi&theme=catppuccin-mocha&hide_border=true" alt="GitHub Streak" />
+   <img src="https://streak-stats.demolab.com/?user=hamzahasbi&theme=catppuccin-mocha&hide_border=true"/>
 </details>
-
 <details>
   <summary><b>⚡ GitHub Stats</b></summary>
   <br/>
