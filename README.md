@@ -2,13 +2,15 @@
 ![title](/header.png)
 
 ### 🚀 About Me
-- **Full Stack Engineer** (backend and DevOps heavy) focused on building products with modern web technologies and understanding the "why" behind current tools.
-- **Gaming Enthusiast**: League of Legends + PS4
-- **Competitive Programming enjoyer ([Check the setup](https://github.com/hamzahasbi/CP-stuffs) ).**
-- **Inspirational Quote**: ***"If it's not a clear YES, then it's a NO"*** (From *Essentialism* by [Greg McKeown](https://essentialism.com/)).
-- **Currently Reading**:
+- 🖥️ **Full Stack Engineer** (backend and DevOps heavy) focused on building products with modern web technologies and understanding the "why" behind current tools.
+- 🕹️ **Gaming Enthusiast**: League of Legends + PS4
+- 👨‍💻 **Competitive Programming enjoyer ([Check the setup](https://github.com/hamzahasbi/CP-stuffs) ).**
+- 💭 **Inspirational Quote**: ***"If it's not a clear YES, then it's a NO"*** (From *Essentialism* by [Greg McKeown](https://essentialism.com/)).
+- 📚 **Currently Reading**:
   - [The Rules of People](https://www.goodreads.com/book/show/36611665-the-rules-of-people)
   - [Cracking the Coding Interview, 6th Edition](https://www.crackingthecodinginterview.com/solutions.html).
+- 🧪 **Domain**: [@2hlabs.com](https://hamzahasbi.2hlabs.com)  
+  This is my personal domain, used for my **homelab projects** and **product development**.
   
 ---
 ### 📊 GitHub Stats & Streaks
@@ -64,9 +66,9 @@
 ---
 
 ### 📫 Let's Connect
-- **Email**: [hamza.hasbi@gmail.com](mailto:hamza.hasbi@gmail.com)
-- **Discord**: `__morty`
-- **Instagram**: [@hamzahasbi](https://www.instagram.com/hamzahasbi/)
+- 📧 **Email**: [hamza.hasbi@gmail.com](mailto:hamza.hasbi@gmail.com)
+- 💬 **Discord**: `__morty`
+- 📷 **Instagram**: [@hamzahasbi](https://www.instagram.com/hamzahasbi/)
 ---
 
 ### ⚡ Fun Facts
