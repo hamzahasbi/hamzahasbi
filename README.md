@@ -3,7 +3,7 @@
 
 ### 🚀 About Me
 - 🖥️ **Full Stack Engineer** (backend and DevOps heavy) focused on building products with modern web technologies and understanding the "why" behind current tools.
-- 🕹️ **Gaming Enthusiast**: League of Legends + PS4
+- 🕹️ **Gaming Enthusiast**: [Gaming Setup](https://pcpartpicker.com/list/mkQn6B) + [PS4](https://www.playstation.com/en-us/ps4/tech-specs/)
 - 👨‍💻 **Competitive Programming enjoyer ([Check the setup](https://github.com/hamzahasbi/CP-stuffs) ).**
 - 💭 **Inspirational Quote**: ***"If it's not a clear YES, then it's a NO"*** (From *Essentialism* by [Greg McKeown](https://essentialism.com/)).
 - 📚 **Currently Reading**:
@@ -38,7 +38,7 @@
   <summary><b>⚙️ Things I Use to Get Stuff Done</b></summary>
   <ul>
     <li><b>OS:</b> macOS .</li>
-    <li><b>Setup:</b> MacBook Pro M4 Pro (14-inch, 16GB RAM, 512GB SSD) + <a href="http://www.hybrok.com/index.php/hybrok-spark-hs24cuf" target="_blank">Monitor 1</a> + <a href="https://www.msi.com/Monitor/Optix-MAG241C/support" target="_blank">Monitor 2</a> + <a href="https://www.razer.com/gaming-mice/razer-basilisk-x-hyperspeed" target="_blank">Mouse</a> + <a href="https://spiritofgamer.com/gb/keyboards/420-xpert-k1500-3700104445932.html" target="_blank">Keyboard</a> + <a href="https://www.corsair.com/fr/fr/p/gaming-headsets/ca-9011185-eu/virtuoso-rgb-wireless-high-fidelity-gaming-headset-carbon-eu-ca-9011185-eu" target="_blank">Headset</a>.</li>
+    <li><b>Setup:</b> MacBook Pro M4 Pro (14-inch, 16GB RAM, 512GB SSD) + <a href="https://www.ultrapc.ma/moniteurs-gamer/4142-hybrok-spark-hs24ifl-24-ips-144hz.html?srsltid=AfmBOooA9PSmX49Q_WWQbIG_IEI0COCgHKqihH60rQVByq1sNSs1z7MG" target="_blank">Monitor 1</a> + <a href="https://www.msi.com/Monitor/Optix-MAG241C/support" target="_blank">Monitor 2</a> + <a href="https://www.razer.com/gaming-mice/razer-basilisk-x-hyperspeed" target="_blank">Mouse</a> + <a href="https://spiritofgamer.com/gb/keyboards/420-xpert-k1500-3700104445932.html" target="_blank">Keyboard</a> + <a href="https://www.corsair.com/fr/fr/p/gaming-headsets/ca-9011185-eu/virtuoso-rgb-wireless-high-fidelity-gaming-headset-carbon-eu-ca-9011185-eu" target="_blank">Headset</a>.</li>
     <li><b>Terminal:</b> <a href="https://wezterm.org/index.html" target="_blank">WezTerm</a> with <a href="https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH" target="_blank">ZSH</a> , <a href="https://zellij.dev/" target="_blank">Zellij</a>,<a href="https://ohmyz.sh/" target="_blank">oh-my-zsh</a> and <a href="https://yazi-rs.github.io/" target="_blank">yazi</a>.</li>
     <li><b>IDEs & Code Editors:</b> PHPStorm, WebStorm, <b>Windsurf</b>, and Neovim.</li>
     <li><b>Utilities :</b> <a href="https://marta.sh/docs/" target="_blank">Marta</a>,
