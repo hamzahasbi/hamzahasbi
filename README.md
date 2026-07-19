@@ -9,7 +9,7 @@
 - 📚 **Currently Reading**:
   - [The Rules of People](https://www.goodreads.com/book/show/36611665-the-rules-of-people)
   - [Cracking the Coding Interview, 6th Edition](https://www.crackingthecodinginterview.com/solutions.html).
-- 🧪 **Self Branding**: [@2hlabs.com](https://hamzahasbi.2hlabs.com)  
+- 🧪 **Self Branding**: [@2hlabs.com](https://hamzahasbi.me)  
   This is my personal domain, used for my **homelab projects** (😐 changing the *.me domain tradition & Check Fun Facts section 😏).
   
 ---
